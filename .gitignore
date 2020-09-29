@@ -4,3 +4,5 @@ config/.secrets.*
 .idea
 __pycache__
 venv
+.dmypy.json
+.pytype
